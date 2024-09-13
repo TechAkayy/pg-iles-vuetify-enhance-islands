@@ -33,7 +33,7 @@
             <template #title>
               <div class="d-flex justify-space-between">
                 <span class="text-primary">Cafe Bella Vista</span>
-                <!-- <DarkModeSwitch /> -->
+                <DarkModeSwitch />
               </div>
             </template>
             <template #subtitle>
