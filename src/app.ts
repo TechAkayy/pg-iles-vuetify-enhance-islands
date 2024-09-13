@@ -18,8 +18,8 @@ import vuetify from '@/plugins/vuetify'
 
 export default defineApp({
   enhanceApp({ app }) {
-    app.use(pinia)
-    app.use(vuetify)
+    // app.use(pinia)
+    // app.use(vuetify)
   },
   enhanceIslands({ app }) {
     app.use(pinia)
