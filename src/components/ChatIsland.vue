@@ -46,7 +46,7 @@
               </template>
 
               <v-toolbar-title
-                class="text-h6"
+                class="text-h6 text-white"
                 text="Messages"
               ></v-toolbar-title>
 
