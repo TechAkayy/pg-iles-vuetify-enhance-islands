@@ -51,3 +51,4 @@ src/Island.vue
 src/shared.d.ts
 src/shared-00.d.ts
 src/vue.js
+src/vueRenderer.js
